@@ -24,4 +24,4 @@ jQuery <br/>
 Font Awesome <br/>
 Bootstrap <br/>
 
-https://acatesmedia.com/projects
+https://acatesmedia.com/projects.html
