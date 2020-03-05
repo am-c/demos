@@ -16,7 +16,7 @@ Drag Mario, Luigi and Yoshi characters onto the mushrooms. Find the sequence the
 <strong>cat-stretch-skate</strong> <br/>
 Drag skater to the top of the cat's back and drop it. Press buttons that appear on the bottom right corner to make skater do tricks.
 
-Stack for all demos: <br/>
+<strong>Stack for all demos:</strong> <br/>
 HTML/CSS/JS <br/>
 <strong>Frameworks:</strong> <br/>
 jQuery UI <br/>
